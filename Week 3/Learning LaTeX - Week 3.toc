@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introductory Remarks}{3}
+\contentsline {section}{\numberline {2}Equations}{4}
+\contentsline {subsection}{\numberline {2.1}Basics of Equations}{4}
+\contentsline {subsection}{\numberline {2.2}Greek Letters \& Commonly Used Equations}{5}
+\contentsline {subsection}{\numberline {2.3}Numbering Equations}{6}
+\contentsline {subsection}{\numberline {2.4}Aligning Multiple Equations}{7}
+\contentsline {section}{\numberline {3}Lists}{9}
+\contentsline {subsection}{\numberline {3.1}Basics of ``Itemize"}{9}
+\contentsline {subsection}{\numberline {3.2}Centering Lists}{9}
+\contentsline {subsection}{\numberline {3.3}Nesting Lists}{10}
+\contentsline {section}{\numberline {4}Numbering}{11}
+\contentsline {subsection}{\numberline {4.1}Basics of ``Enumerate"}{11}
+\contentsline {subsection}{\numberline {4.2}A Few Extras on ``Enumerate"}{11}
