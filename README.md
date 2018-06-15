@@ -1,10 +1,10 @@
-# Learning \LaTeX\ Workshop
+# Notes and Files from my "Learning LaTeX" Workshop
 
-### Adapted from a workshop on the basics of \LaTeX\ at the University of Houston, Fall 2017
+#### Adapted from a workshop on the basics of LaTeX at the University of Houston, Fall 2017
 
-### Please feel free to use, change, adapt, and fork. I hope these few files are helpful.
+#### Please feel free to use, change, adapt, and fork. I hope these few files are helpful.
 
-#### Overview of Topics \& Tentative Schedule
+##### Overview of Topics \& Tentative Schedule
 
 1. "Week 1": Getting started, packages, typesetting, and basic document features (e.g., environments, essentials like punctuation/delimiters, backslashes/commands, commenting, typeface, etc.)
 	
