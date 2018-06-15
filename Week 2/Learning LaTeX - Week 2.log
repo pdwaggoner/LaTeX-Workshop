@@ -1,0 +1,602 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 SEP 2017 14:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Learning LaTeX - Week 2.tex"
+(./Learning LaTeX - Week 2.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count103
+\U@D=\dimen122
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip55
+\bibsep=\skip56
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count104
+)
+(./Learning LaTeX - Week 2.aux)
+\openout1 = `"Learning LaTeX - Week 2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen123
+\scratchbox=\box28
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen124
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Learning LaTeX - Week 2.toc)
+\tf@toc=\write3
+\openout3 = `"Learning LaTeX - Week 2.toc"'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+<CODE1.png, id=26, 292.09125pt x 137.51375pt>
+File: CODE1.png Graphic file (type png)
+ <use CODE1.png>
+Package pdftex.def Info: CODE1.png used on input line 69.
+(pdftex.def)             Requested size: 146.04526pt x 68.7567pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+<OUT1.png, id=28, 140.525pt x 49.18375pt>
+File: OUT1.png Graphic file (type png)
+ <use OUT1.png>
+Package pdftex.def Info: OUT1.png used on input line 76.
+(pdftex.def)             Requested size: 84.31564pt x 29.51045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+<CODE2.png, id=29, 606.265pt x 205.76875pt>
+File: CODE2.png Graphic file (type png)
+ <use CODE2.png>
+Package pdftex.def Info: CODE2.png used on input line 85.
+(pdftex.def)             Requested size: 303.13176pt x 102.88411pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+<OUT2.png, id=30, 146.5475pt x 71.26625pt>
+File: OUT2.png Graphic file (type png)
+ <use OUT2.png>
+Package pdftex.def Info: OUT2.png used on input line 92.
+(pdftex.def)             Requested size: 87.92915pt x 42.76006pt.
+ [4 <./CODE1.png> <./OUT1.png> <./CODE2.png> <./OUT2.png>]
+<CODE3.png, id=38, 603.25375pt x 221.82875pt>
+File: CODE3.png Graphic file (type png)
+ <use CODE3.png>
+Package pdftex.def Info: CODE3.png used on input line 101.
+(pdftex.def)             Requested size: 301.62613pt x 110.9141pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+<OUT3.png, id=39, 165.61874pt x 88.33pt>
+File: OUT3.png Graphic file (type png)
+ <use OUT3.png>
+Package pdftex.def Info: OUT3.png used on input line 108.
+(pdftex.def)             Requested size: 99.37201pt x 52.9984pt.
+
+<CODE4.png, id=40, 477.785pt x 221.82875pt>
+File: CODE4.png Graphic file (type png)
+ <use CODE4.png>
+Package pdftex.def Info: CODE4.png used on input line 115.
+(pdftex.def)             Requested size: 238.8919pt x 110.9141pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
+
+[5 <./CODE3.png> <./OUT3.png> <./CODE4.png>]
+<OUT4.png, id=47, 191.71625pt x 90.3375pt>
+File: OUT4.png Graphic file (type png)
+ <use OUT4.png>
+Package pdftex.def Info: OUT4.png used on input line 124.
+(pdftex.def)             Requested size: 115.03062pt x 54.2029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+<CODE5.png, id=48, 481.8pt x 255.95625pt>
+File: CODE5.png Graphic file (type png)
+ <use CODE5.png>
+Package pdftex.def Info: CODE5.png used on input line 138.
+(pdftex.def)             Requested size: 240.8994pt x 127.9778pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+<OUT5.png, id=49, 199.74625pt x 93.34875pt>
+File: OUT5.png Graphic file (type png)
+ <use OUT5.png>
+Package pdftex.def Info: OUT5.png used on input line 145.
+(pdftex.def)             Requested size: 119.84866pt x 56.00967pt.
+
+<CODE6.png, id=50, 496.85625pt x 731.73375pt>
+File: CODE6.png Graphic file (type png)
+ <use CODE6.png>
+Package pdftex.def Info: CODE6.png used on input line 152.
+(pdftex.def)             Requested size: 248.4275pt x 365.86598pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./OUT4.png> <./CODE5.png> <./OUT5.png>]
+<OUT6.png, id=57, 450.68375pt x 665.48625pt>
+File: OUT6.png Graphic file (type png)
+ <use OUT6.png>
+Package pdftex.def Info: OUT6.png used on input line 161.
+(pdftex.def)             Requested size: 270.41232pt x 399.29483pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./CODE6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+[8 <./OUT6.png>] <CODE7.png, id=67, 944.52875pt x 702.625pt>
+File: CODE7.png Graphic file (type png)
+ <use CODE7.png>
+Package pdftex.def Info: CODE7.png used on input line 176.
+(pdftex.def)             Requested size: 472.26321pt x 351.31163pt.
+
+Overfull \hbox (2.5082pt too wide) in paragraph at lines 176--178
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+[9 <./CODE7.png>] <OUT7.png, id=72, 594.22pt x 416.55624pt>
+File: OUT7.png Graphic file (type png)
+ <use OUT7.png>
+Package pdftex.def Info: OUT7.png used on input line 185.
+(pdftex.def)             Requested size: 356.53474pt x 249.93567pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+<CODE8.png, id=73, 601.24625pt x 350.30875pt>
+File: CODE8.png Graphic file (type png)
+ <use CODE8.png>
+Package pdftex.def Info: CODE8.png used on input line 196.
+(pdftex.def)             Requested size: 300.62238pt x 175.15395pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./OUT7.png>] <OUT8.png, id=78, 419.5675pt x 157.58875pt>
+File: OUT8.png Graphic file (type png)
+ <use OUT8.png>
+Package pdftex.def Info: OUT8.png used on input line 205.
+(pdftex.def)             Requested size: 251.74243pt x 94.55397pt.
+
+[11 <./CODE8.png> <./OUT8.png>] <CODE9.png, id=85, 536.0025pt x 59.22125pt>
+File: CODE9.png Graphic file (type png)
+
+<use CODE9.png>
+Package pdftex.def Info: CODE9.png used on input line 218.
+(pdftex.def)             Requested size: 268.0006pt x 29.61053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+<CODE10.png, id=86, 236.885pt x 128.48pt>
+File: CODE10.png Graphic file (type png)
+ <use CODE10.png>
+Package pdftex.def Info: CODE10.png used on input line 227.
+(pdftex.def)             Requested size: 118.4422pt x 64.23984pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
+
+ []
+
+[12 <./CODE9.png> <./CODE10.png>] <OUT10.png, id=92, 373.395pt x 420.57124pt>
+File: OUT10.png Graphic file (type png)
+
+<use OUT10.png>
+Package pdftex.def Info: OUT10.png used on input line 236.
+(pdftex.def)             Requested size: 149.35535pt x 168.22551pt.
+ <CODE11.png, id=93, 336.25626pt x 285.065pt>
+File: CODE11.png Graphic file (type png)
+ <use CODE11.png>
+Package pdftex.def Info: CODE11.png used on input line 245.
+(pdftex.def)             Requested size: 168.12772pt x 142.53215pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+
+ []
+
+[13 <./OUT10.png> <./CODE11.png>]
+<OUT11.png, id=100, 246.9225pt x 448.67625pt>
+File: OUT11.png Graphic file (type png)
+ <use OUT11.png>
+Package pdftex.def Info: OUT11.png used on input line 254.
+(pdftex.def)             Requested size: 98.76724pt x 179.46732pt.
+ [14 <./OUT11.png>] (./Learning LaTeX - Week 2.aux) ) 
+Here is how much of TeX's memory you used:
+ 3960 strings out of 493014
+ 52750 string characters out of 6133351
+ 126859 words of memory out of 5000000
+ 7399 multiletter control sequences out of 15000+600000
+ 16404 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,14n,43p,1033b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmti7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmtt9.pfb>
+Output written on "Learning LaTeX - Week 2.pdf" (14 pages, 626723 bytes).
+PDF statistics:
+ 153 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+

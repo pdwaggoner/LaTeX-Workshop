@@ -1,0 +1,9 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introductory Remarks}{3}
+\contentsline {section}{\numberline {2}Tables}{4}
+\contentsline {subsection}{\numberline {2.1}Combining Columns}{5}
+\contentsline {subsection}{\numberline {2.2}Position Tables Using the ``Table" Environment}{6}
+\contentsline {subsection}{\numberline {2.3}Captions, Labels, \& In-Text Referencing}{8}
+\contentsline {subsection}{\numberline {2.4}Table Notes}{10}
+\contentsline {section}{\numberline {3}Graphics, Plots, \& Pictures}{12}
+\contentsline {subsection}{\numberline {3.1}A Few Notes on Scaling \& Sizing}{13}
