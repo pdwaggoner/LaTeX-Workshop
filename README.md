@@ -2,7 +2,7 @@
 
 #### These notes and files are from my workshop on the basics of LaTeX given at the University of Houston, Fall 2017
 
-#### Please feel free to use, change, adapt, and fork. I hope these few files are helpful.
+#### Please feel free to use, change, adapt, and fork.
 
 ##### Overview of Topics \& Schedule
 
