@@ -8,7 +8,7 @@
 
 1. "Week 1": Getting started, packages, typesetting, and basic document features (e.g., environments, essentials like punctuation/delimiters, backslashes/commands, commenting, typeface, etc.)
 	
-2. "Week 2": Graphics \& Tables (inserting and drawing)
+2. "Week 2": Graphics \& Tables (inserting \& drawing)
 	
 3. "Week 3": Equations, Lists, \& Numbering (e.g., Greek letters, itemize, enumerate, centering, etc.)
 
